@@ -25,6 +25,10 @@
     flex: 1;
 }
 
+.header .header-nav .menu-header .nav-link.active {
+    color: var(--pink);
+}
+
 .header .header-nav .menu-header ul li a {
     font-size: 13px;
     color: #1e1e1e;
